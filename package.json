@@ -11,12 +11,19 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@google-cloud/automl": "^0.1.2",
+    "@nuxtjs/axios": "^5.0.0",
+    "axios": "^0.18.0",
+    "child_process": "^1.0.2",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.0.0",
     "feathers": "^2.0.3",
     "feathers-configuration": "^0.3.3",
-    "vuetify": "^1.2.4",
-    "@nuxtjs/axios": "^5.0.0"
+    "fs": "0.0.1-security",
+    "http2": "^3.3.7",
+    "net": "^1.0.2",
+    "nuxt": "^2.0.0",
+    "tls": "0.0.1",
+    "vuetify": "^1.2.4"
   },
   "devDependencies": {
     "nodemon": "^1.11.0",
